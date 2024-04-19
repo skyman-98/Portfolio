@@ -1,0 +1,1 @@
+export const profileImage = require('./images/theAkash.jpg');
